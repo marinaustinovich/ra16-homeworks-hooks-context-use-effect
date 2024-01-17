@@ -1,32 +1,32 @@
 .details-wrapper {
-    width: 45%;
-    border: 1px solid #ccc;
-    padding: 2rem;
-    margin-top: 10px;
+  width: 45%;
+  border: 1px solid #ccc;
+  padding: 2rem;
+  margin-top: 10px;
 }
 
 .details-title {
-    margin: 0;
-    font-size: 18px;
+  margin: 0;
+  font-size: 18px;
 }
 
 .avatar {
-    width: 250px;
-    height: 250px;
-    object-fit: cover;
-    margin: 10px 0;
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  margin: 10px 0;
 }
 
 .name {
-    font-weight: bold;
-    margin-bottom: 5px;
+  font-weight: bold;
+  margin-bottom: 5px;
 }
 
 .details-item {
-    margin-bottom: 5px;
+  margin-bottom: 5px;
 }
 
 .details-label {
-    font-weight: bold;
-    margin-right: 5px;
+  font-weight: bold;
+  margin-right: 5px;
 }

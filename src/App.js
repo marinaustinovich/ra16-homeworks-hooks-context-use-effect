@@ -1,5 +1,5 @@
 import "./App.css";
-import List from "./components/List/List";
+import { List } from "./components";
 
 const App = () => <List />;
 
