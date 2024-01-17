@@ -1,10 +1,6 @@
-import './App.css';
-import List from './components/List/List';
+import "./App.css";
+import List from "./components/List/List";
 
-function App() {
-  return (
-    <List></List>
-  );
-}
+const App = () => <List />;
 
 export default App;
